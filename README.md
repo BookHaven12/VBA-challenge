@@ -7,5 +7,5 @@ Places I got help for my code:
 
 2. I asked for help from Paul during office hours about Dim StockTotal As LongLong, and for help with why my calculation for quarterly change was calculating incorrectly
 
-3.To loop through multiple workbooks:
+3. To loop through multiple workbooks:
 https://support.microsoft.com/en-us/topic/macro-to-loop-through-all-worksheets-in-a-workbook-feef14e3-97cf-00e2-538b-5da40186e2b0
