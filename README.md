@@ -1,6 +1,6 @@
 # VBA-challenge
 Places I got help for my code:
-1.  I used the Xper Learning Assistant for the following:
+1.  I used the Xpert Learning Assistant for the following:
    If i = lastrow Or ws.Cells(i + 1, 1).Value <> ws.Cells(i, 1).Value Then,
 
    formatting as a percentage:  ws.Range("Q3").NumberFormat = "0.00%" ' Format as percentage
