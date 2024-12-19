@@ -1,4 +1,5 @@
 # VBA-challenge
+I primarily used the Credit Card example from the second day of VBA class to write this code. 
 Places I got help for my code:
 1.  I used the Xpert Learning Assistant for the following:
    If i = lastrow Or ws.Cells(i + 1, 1).Value <> ws.Cells(i, 1).Value Then,
@@ -6,6 +7,8 @@ Places I got help for my code:
    formatting as a percentage:  ws.Range("Q3").NumberFormat = "0.00%" ' Format as percentage
    
    No color change for a value of zero: ws.Range("J" & Summary_Table_Row).Interior.ColorIndex = xlNone
+
+   Greatest increase and decrease
 
 3. I asked for help from Paul during office hours about Dim StockTotal As LongLong, and for help with why my calculation for quarterly change. It was calculating incorrectly
 
