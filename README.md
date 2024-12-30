@@ -14,3 +14,5 @@ Places I got help for my code:
 
 4. To loop through multiple workbooks:
 https://support.microsoft.com/en-us/topic/macro-to-loop-through-all-worksheets-in-a-workbook-feef14e3-97cf-00e2-538b-5da40186e2b0
+
+UPDATE: I added conditional formatting code to the percent change column and added screenshots showing the change.
